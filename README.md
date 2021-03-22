@@ -6,4 +6,4 @@ python3 build.py
 
 ## Environment Variables
 
-- AMP_STATIC_API_GRAPHQL_URI
+- `AMP_STATIC_API_GRAPHQL_URI`
