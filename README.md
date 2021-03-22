@@ -24,7 +24,7 @@ data
 
 ## Generated JSON File
 
-https://plaehaus-amp-static-api-478f0e.netlify.app/
+https://plaehaus-amp-static-api-478f0e.netlify.app/upcoming-productions.json
 
 ## Deploy Status
 
